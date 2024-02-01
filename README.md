@@ -1,4 +1,4 @@
-# Settings Aprigio
+# Settings Aprigio :bulb:
 
 ## Vscode settings.json
 ```json
@@ -151,4 +151,9 @@
     "symbols.hidesExplorerArrows": false,
 }
 
+```
+
+## To open the settings in VSCODE:
+```
+CTRL + ,
 ```

@@ -149,6 +149,7 @@
         "editor.defaultFormatter": "ms-mssql.mssql"
     },
     "symbols.hidesExplorerArrows": false,
+    "editor.wordWrap": "on",
 }
 
 ```
